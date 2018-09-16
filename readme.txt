@@ -6,3 +6,5 @@ How to use High Frequency Strategy to win the market.
 get code managed.
 I AM less of sleep.
 create a new branch is quick and simple
+keep branch.
+
